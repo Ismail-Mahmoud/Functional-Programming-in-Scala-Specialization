@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf149ffe-7f5b-4e86-b273-06b4f00000a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cWO0gC3SA2voLCHRmup84NoCaW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/repos/Cool-Compiler/3 address code" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="exercises" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises [file:/E:/Functional%20Programming%20in%20Scala%20Specialization/1.%20Functional%20Programming%20Principles%20in%20Scala/week%205/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3181281322146" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2243959549" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf149ffe-7f5b-4e86-b273-06b4f00000a7" name="Default Changelist" comment="" />
+      <created>1590640660628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590640660628</updated>
+      <workItem from="1590640670012" duration="11621000" />
+      <workItem from="1590662540072" duration="5000" />
+      <workItem from="1590666088500" duration="548000" />
+      <workItem from="1590743489768" duration="4538000" />
+      <workItem from="1590871353754" duration="3222000" />
+      <workItem from="1590951983656" duration="1236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1590640723726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590640723726" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1590954757999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590954757999" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590953276959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590953276959" />
+    <state x="65" y="91" key="new project wizard" timestamp="1590661905881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="91" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590661905881" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1590643608414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590643608414" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590642770023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590642770023" />
+  </component>
+</project>

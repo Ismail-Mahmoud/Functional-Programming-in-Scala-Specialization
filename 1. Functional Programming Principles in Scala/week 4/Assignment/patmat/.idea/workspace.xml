@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e62f305e-81dc-4bb3-a0a0-7f24a9e48fcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bhuxjOz7z8xbirWTCFKNkMLnpW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../week 6/Assignment/forcomp" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="JUnit.HuffmanSuite">
+    <configuration name="HuffmanSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HuffmanSuite" />
+        <item itemvalue="JUnit.HuffmanSuite.decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-patmat" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="patmat [file:/E:/Functional%20Programming%20in%20Scala%20Specialization/1.%20Functional%20Programming%20Principles%20in%20Scala/week%204/Assignment/patmat/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-patmat-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2903817043" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 3/objsets" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e62f305e-81dc-4bb3-a0a0-7f24a9e48fcb" name="Default Changelist" comment="" />
+      <created>1589096894341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589096894341</updated>
+      <workItem from="1589096898078" duration="9720000" />
+      <workItem from="1589170744223" duration="10010000" />
+      <workItem from="1590640575444" duration="82000" />
+      <workItem from="1591088059680" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1591088150858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591088150858" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1589181747957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589181747957" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590640577006">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590640577006" />
+    <state x="65" y="91" key="new project wizard" timestamp="1590640656689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="91" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590640656689" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589177355590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589177355590" />
+  </component>
+</project>

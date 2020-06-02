@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f3c25bb-d082-41cd-85d6-57dd3e5ad1b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cX54Oj5onmUAoxD7rU2wW1cyTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Functional Programming in Scala Specialization\1. Functional Programming Principles in Scala\week 6\exercises\src" />
+      <recent name="E:\Functional Programming in Scala Specialization\1. Functional Programming Principles in Scala\week 6\exercises\project" />
+      <recent name="E:\Functional Programming in Scala Specialization\1. Functional Programming Principles in Scala\week 6\exercises" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Functional Programming in Scala Specialization\1. Functional Programming Principles in Scala\week 6\exercises\src" />
+      <recent name="E:\Functional Programming in Scala Specialization\1. Functional Programming Principles in Scala\week 6\exercises\src\main\scala" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="exercises" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises [file:/E:/Functional%20Programming%20in%20Scala%20Specialization/1.%20Functional%20Programming%20Principles%20in%20Scala/week%206/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3181323812046" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2243959549" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3c25bb-d082-41cd-85d6-57dd3e5ad1b1" name="Default Changelist" comment="" />
+      <created>1590661906001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590661906001</updated>
+      <workItem from="1590661912013" duration="582000" />
+      <workItem from="1590662554461" duration="4049000" />
+      <workItem from="1590743551514" duration="16965000" />
+      <workItem from="1590864983425" duration="9497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590866729427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590866729427" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1590865069564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590865069564" />
+    <state x="281" y="19" key="SettingsEditor" timestamp="1590792867510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590792867510" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1590865044114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590865044114" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590746423017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590746423017" />
+  </component>
+</project>

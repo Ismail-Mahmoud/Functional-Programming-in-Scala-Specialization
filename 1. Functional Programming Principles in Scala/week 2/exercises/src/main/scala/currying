@@ -1,0 +1,4 @@
+def f(args_1)(args_2)....(args_n-1)(args_n) = E
+def f(args_1)(args_2)....(args_n-1) = {def g(args_n) = E; g}
+def f(args_1)(args_2)....(args_n-1) = (args_n => E)
+def f = (args_1 => (args_2 => .... (args_n => E)))

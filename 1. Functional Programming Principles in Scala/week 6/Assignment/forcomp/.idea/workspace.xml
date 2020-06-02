@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4eccc5-8a01-4dd6-9863-65bd9066af74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cdisI0ObWamrMVZuxB64ay0OhS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="JUnit.AnagramsSuite">
+    <configuration name="AnagramsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.combinations$colon$u0020$u005B$u005D$u0020$u00288pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="combinations$colon$u0020$u005B$u005D$u0020$u00288pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.sentence$u0020anagrams$colon$u0020$u005B$u005D$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="sentence$u0020anagrams$colon$u0020$u005B$u005D$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.sentence$u0020anagrams$colon$u0020Linux$u0020rulez$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="sentence$u0020anagrams$colon$u0020Linux$u0020rulez$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramsSuite.sentence$u0020anagrams$colon$u0020Yes$u0020man$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
+      <option name="METHOD_NAME" value="sentence$u0020anagrams$colon$u0020Yes$u0020man$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnagramsSuite" />
+        <item itemvalue="JUnit.AnagramsSuite.sentence$u0020anagrams$colon$u0020Linux$u0020rulez$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.AnagramsSuite.sentence$u0020anagrams$colon$u0020Yes$u0020man$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.AnagramsSuite.sentence$u0020anagrams$colon$u0020$u005B$u005D$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.AnagramsSuite.combinations$colon$u0020$u005B$u005D$u0020$u00288pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-forcomp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="forcomp [file:/E:/Functional%20Programming%20in%20Scala%20Specialization/1.%20Functional%20Programming%20Principles%20in%20Scala/week%206/Assignment/forcomp/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-forcomp-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2158534996" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../week 4/patmat" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4eccc5-8a01-4dd6-9863-65bd9066af74" name="Default Changelist" comment="" />
+      <created>1590865076029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590865076029</updated>
+      <workItem from="1590865081684" duration="23103000" />
+      <workItem from="1591087094335" duration="496000" />
+      <workItem from="1591088154716" duration="6000" />
+      <workItem from="1591090809623" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1591087640747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591087640747" />
+    <state width="1323" height="330" key="GridCell.Tab.0.bottom" timestamp="1591087643047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591087643047" />
+    <state width="1323" height="330" key="GridCell.Tab.0.center" timestamp="1591087643047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591087643047" />
+    <state width="1323" height="330" key="GridCell.Tab.0.left" timestamp="1591087643047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591087643047" />
+    <state width="1323" height="330" key="GridCell.Tab.0.right" timestamp="1591087643047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591087643047" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590897393342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590897393342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1590897393342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590897393342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1590897393342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590897393342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1590897393342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590897393342" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1590892318817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590892318817" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1591090809163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591090809163" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590883366332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590883366332" />
+  </component>
+</project>
